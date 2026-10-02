@@ -1,0 +1,25 @@
+# Віртуальне оточення Python
+.venv/
+venv/
+ENV/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# Налаштування редакторів (наприклад, VS Code чи PyCharm)
+.vscode/
+.idea/
+
+# Файли операційної системи
+.DS_Store
+Thumbs.db
+
+# Buildozer: папка збірки та текстові логи
+.buildozer/
+*.log
+buildozer.spec
+
+# Extra files
+local_recipes/
+src/
