@@ -17,9 +17,10 @@ Thumbs.db
 
 # Buildozer: папка збірки та текстові логи
 .buildozer/
-*.log
+*.txt
 buildozer.spec
 
 # Extra files
-local_recipes/
+best.onnx
 src/
+bin/
