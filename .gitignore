@@ -22,5 +22,4 @@ buildozer.spec
 
 # Extra files
 best.onnx
-src/
 bin/
